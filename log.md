@@ -18,3 +18,11 @@ Forgot to make the commit to the git repository for this log.
 **Thoughts:** I enoy getting off of my high horse and just learning how to do stuff. I'm going to take these lessons and use it to make my website and myself better.
 
 **Link to work:** [Link of main repository](https://github.com/mandaris/100-days-of-code)
+
+### Day 3: January 3, 2018 
+
+**Today's Progress**: Today, I did freecodecamp with someone else. It was fun to spend some quality time with one of my kids
+
+**Thoughts:** I can't wait to do some more with my kids.
+
+**Link to work:** [Link of main repository](https://github.com/mandaris/100-days-of-code)
